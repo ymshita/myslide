@@ -3,12 +3,17 @@
 - this is sample slide
 
 ---
-### 2
+### Yattakoto
 
-- this is page 2
+- iOSアプリ開発。個人開発のアプリでSwiftUIを調べながら作っています。
+    - メニューからメインのタブ画面の各タブを開く
+    - testflightにアップロード
+    - ログイン機能
 
-### 3
+### Wakattakoto
 
 - this is page 3
--
--
+
+###　Tsugiyatukoto
+- 
+- 
