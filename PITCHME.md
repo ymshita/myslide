@@ -22,7 +22,7 @@
 
 #### 1. メニューからメインのタブ画面の各タブを開く🤔
 
-- ![image](https://raw.githubusercontent.com/yymsht/myslide/master/assets/img/test.jpg)
+- ![image](https://raw.githubusercontent.com/yymsht/myslide/master/assets/img/diagram.png)
 
 ---
 ### Yattakoto
