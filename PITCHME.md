@@ -1,19 +1,24 @@
-### hello
-
-- this is sample slide
-
+# ymst
 ---
-### Yattakoto
 
-- iOSアプリ開発。個人開発のアプリでSwiftUIを調べながら作っています。
+### 今日やること
+
+ - iOSアプリ開発。個人開発のアプリでSwiftUIを調べながら作っています。
     - メニューからメインのタブ画面の各タブを開く
     - testflightにアップロード
     - ログイン機能
 
+---
+### Yattakoto
+    - メニューからメインのタブ画面の各タブを開く
+    - testflightにアップロード
+    - ログイン機能
+
+---
 ### Wakattakoto
 
-- this is page 3
-
+- 
+---
 ###　Tsugiyatukoto
 - 
 - 
